@@ -1,4 +1,4 @@
-﻿#总是在反反复复中追问，才明白平平淡淡是真
+﻿#总是在反反复复中追问，才明白平平淡淡是最真
 
 $date=Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
